@@ -28,4 +28,5 @@ The AR Tour Companion with Voice Assistance application is an android app integr
 
 Check out our Demo Video on YouTube  
 &nbsp;
-[!AR Tour Companion Demo Video](https://youtu.be/QBhtDf_XD60?si=sdlNG031-_daO7VV)
+[![AR Tour Companion Demo Video](https://github.com/Amit250/AR-Tour-Companion-with-Voice-Assistance/assets/58304052/5f6cc6ed-0c32-46c4-8f2f-ab59793ffe0c)](https://youtu.be/QBhtDf_XD60?si=sdlNG031-_daO7VV)
+
